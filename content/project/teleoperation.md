@@ -15,9 +15,9 @@ image_preview = "teleoperation.png"
 # Example: `tags = ["Optimal Control", "UAVs"]`
 tags = ["Optimal Control", "UAVs"]
 
-[header]
-image = "teleoperation.png"
-caption = ""
+#[header]
+#image = "teleoperation.png"
+#caption = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/Mathieu-Geisert/ProjetSupaero"

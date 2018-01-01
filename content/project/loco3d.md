@@ -9,7 +9,7 @@ title = "Loco3d"
 summary = "A fully automatic pipeline for multicontact locomotion on uneven terrains."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "loco3d_graphGeneral.png"
+image_preview = "loco3d_graphGeneral2.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["Humanoid Robotics"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "loco3d_graphGeneral.png"
+image = "loco3d_graphGeneral2.jpg"
 caption = ""
 
 +++
